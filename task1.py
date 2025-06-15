@@ -33,3 +33,13 @@ plt.ylabel("Temperature (°C)")
 plt.tight_layout()
 plt.grid()
 plt.show()
+
+Output-
+Temperature Forecast for Surat
+--------------------------------
+Date & Time          Temperature (°C)
+2025-06-15 12:00     34.1
+2025-06-15 15:00     35.3
+2025-06-15 18:00     33.8
+...
+
